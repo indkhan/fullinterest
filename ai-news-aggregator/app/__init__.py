@@ -1,2 +1,0 @@
-"""AI News Aggregator application."""
-
